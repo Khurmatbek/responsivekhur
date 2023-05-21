@@ -1,0 +1,5 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "liveSassCompile.settings.watchOnLaunch": true,
+    "liveSassCompile.settings.showOutputWindowOn": "Error"
+}
